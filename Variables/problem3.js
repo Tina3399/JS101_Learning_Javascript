@@ -1,7 +1,7 @@
-let name = "Tina Rawat";
+let myName = "Tina Rawat";
 let age = 21;
 
- console.log(name);
- console.log(typeof name);
- console.log(age);
- console.log(typeof age);
+console.log(myName);
+console.log(typeof myName);
+console.log(age);
+console.log(typeof age);
