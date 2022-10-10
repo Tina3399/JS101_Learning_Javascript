@@ -1,8 +1,8 @@
-let name = "Tina Rawat";
-console.log(name);
+let myName = "Tina Rawat";
+console.log(myName);
 
-  name = "Surender Singh Rawat";
-  console.log(name);
+let fatherName = "Surender Singh Rawat";
+console.log(fatherName);
 
-  name="Meera Rawat";
-  console.log(name);
+let motherName = "Meera Rawat";
+console.log(motherName);
