@@ -1,5 +1,5 @@
-let num = 15;
+let num = 30;
 
-if(num%3===0){
-  console.log("multiple of 3")
+if (num % 3 === 0) {
+  console.log("multiple of 3");
 }
